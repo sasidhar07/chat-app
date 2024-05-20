@@ -8,14 +8,6 @@
 },
 {
   "_id": {
-    "$oid": "664a3dc95cfd61e26b99536a"
-  },
-  "username": "Venkat",
-  "password": "$2b$10$jg2t.7kusRfdsyXODQoAQutRPssgeDAmZfOGC4MLfvdb1BDiZG05G",
-  "__v": 0
-},
-{
-  "_id": {
     "$oid": "664b548a45e18b9a5af058ae"
   },
   "username": "Venkat_1",
