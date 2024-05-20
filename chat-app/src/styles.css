@@ -1,0 +1,27 @@
+.login-container, .chat-room {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .login-container form, .chat-room {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .messages {
+    max-height: 300px;
+    overflow-y: auto;
+  }
+  
+  .message {
+    margin: 5px 0;
+  }
+  
+  .error {
+    color: red;
+  }
+  
