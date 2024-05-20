@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "664746d89bca5a08c9427de7"
+  },
+  "username": "Sasi",
+  "password": "$2a$10$w1K4tlZnGAUsgu2b6T2Rb.9hfo/JMUKnMAOlc1s8ticdLcsPZCJDy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664a3dc95cfd61e26b99536a"
+  },
+  "username": "Venkat",
+  "password": "$2b$10$jg2t.7kusRfdsyXODQoAQutRPssgeDAmZfOGC4MLfvdb1BDiZG05G",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664b548a45e18b9a5af058ae"
+  },
+  "username": "Venkat_1",
+  "password": "$2b$10$DlzifxQaX48w12s.iuGRReii6/ss6smOx78QmyxsoMD5VH.W1XHMC",
+  "__v": 0
+}]
